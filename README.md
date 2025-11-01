@@ -29,7 +29,7 @@ The project is focused on testing the [SauceDemo](https://www.saucedemo.com) web
 
 git clone https://github.com/<your-username>/playwright-ui-tests.git
 cd playwright-ui-tests
-
+```
 ---
 
 npm install
