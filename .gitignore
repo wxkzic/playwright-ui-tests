@@ -1,0 +1,12 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/playwright/.auth/
+/blob-report/
+node_modules/
+test-results/
+*.zip
+storageState/*.tmp
